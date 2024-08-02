@@ -12,7 +12,7 @@
 
   
 
--  🌱 I’m currently learning **Ethical Haacking.**
+-  🌱 I’m currently learning **Full Stack Web Development.**
 - 👯 I’m looking to collaborate on Hacktoberfest
 -  👐 I love Open source contributions.
 
