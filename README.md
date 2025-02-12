@@ -19,13 +19,6 @@
 -  🙏 Ask me about Github
 
 -  📫 How to reach me **anilfth2001@gmail.com**
--  🚀 Languages and Tools:
--  <img src="![image](https://github.com/user-attachments/assets/8ace90b9-9612-4a9b-8b04-d2b6eb41549a)
-"  width="30px">
-
-  
-
-  
 
 <p align="center">
 
