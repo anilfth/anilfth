@@ -15,7 +15,7 @@
 -  🌱 I’m currently learning **Full Stack Web Development.**
 - 👯 I’m looking to collaborate on Hacktoberfest
 -  👐 I love Open source contributions.
--  👨‍💻 All of my projects are available at My Portfolio
+-  👨‍💻 All of my projects are available at <a href="https://64ea3edafb981f5dfdacebe6--jocular-melba-69f48e.netlify.app/">My Portfolio</a>
 
 -  🙏 Ask me about Github
 
