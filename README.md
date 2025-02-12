@@ -20,6 +20,7 @@
 
 -  📫 How to reach me **anilfth2001@gmail.com**
 -  🚀 Languages and Tools:
+-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">
 
   
 
